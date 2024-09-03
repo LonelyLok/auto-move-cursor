@@ -18,12 +18,16 @@ You can run this application in two ways:
    - Run the script using: `python3 python/app.py`
 
 2. **Executable (.exe)**
-   - Download the zip file on the Releases
+   - Download the `auto-move-cursor-0.zip` on the Releases
    - Extract and run the app.exe
 
 ## How to use app
 
 Press "start" button to start the auto move loop. Press "q" on keyboard to stop loop.
+
+## Demo
+
+![auto-move-cursor-demo](https://github.com/user-attachments/assets/5ed8d5d8-045f-45bd-bd6a-caca3d05ddf7)
 
 ## Disclaimer
 
